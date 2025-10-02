@@ -75,4 +75,9 @@ Dataset ini berisi data iklim dan kondisi atmosfer per jam sepanjang tahun 2012,
 - **Validasi ulang** entri dengan `Dew Point > Temp`.  
 - **Tandai outlier** (misalnya `Wind Speed > 60 km/jam`) untuk analisis khusus.  
 - **Kelompokkan kategori cuaca** (misalnya: Clear, Cloudy, Rain, Snow, Fog) agar analisis lebih sederhana.  
-- Buat **visualisasi distribusi** (boxplot, bar chart) untuk memperkuat hasil analisis data quality.  
+- Buat **visualisasi distribusi** (boxplot, bar chart) untuk memperkuat hasil analisis data quality.
+
+---
+
+## 📎 Lampiran
+Kode Python untuk analisis data quality dapat ditemukan pada file `https://colab.research.google.com/drive/1ShdXHqCqGGLws5OASA5NerD7c65_Zh8Z?usp=sharing`
